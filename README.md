@@ -8,7 +8,7 @@ a Rails 4.2 web application that uses the zurb foundation responsive front-end f
 Experience and expertise gained here will be applied to the class project Klusters.
 
 ## Environment
-- ruby 2.1.09
+- ruby 2.1.0
 - rails 4.0.2
 - zurb-foundation 4.3.2
 - sqlite3
