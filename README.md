@@ -3,7 +3,8 @@
 
 ## Summary
 The intention of this project, the Store Application, is to gain a strong working knowledge of
-a Rails 4.2 web application that uses the zurb foundation responsive front-end framework.
+a Rails 4.2 web application that uses the zurb foundation responsive front-end framework. The application
+is based on RailsCast #417.
 
 Experience and expertise gained here will be applied to the class project Klusters.
 
